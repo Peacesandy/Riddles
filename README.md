@@ -1,0 +1,2 @@
+# Riddles
+Thrive Riddle page
